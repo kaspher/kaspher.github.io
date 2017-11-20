@@ -16,7 +16,7 @@ body {
 }
 .our-history img {
     width: 40%;
-    border: black;
+    border:2px rgb(255, 0, 0);
 }
 .our-history-text {
     margin-right: 25px;
