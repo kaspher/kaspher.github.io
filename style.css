@@ -1,0 +1,13 @@
+* {
+	font-family: Arial, Helvetica, sans-serif;
+}
+header 
+{   display: flex;
+    justify-content: space-between;
+    align-content: baseline;}
+	
+body {
+   max-width: 1024px;
+   margin: 0 auto;
+   
+}
