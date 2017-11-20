@@ -16,10 +16,11 @@ body {
 }
 .our-history-img {
     width: 40%;
-    border:2px rgb(255, 0, 0);
+    border:2px rgb(47, 100, 199);
 }
 .our-history-text {
     margin-right: 25px;
     text-align: justify;
     text-indent: 40px;
 }
+
