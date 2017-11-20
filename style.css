@@ -1,13 +1,25 @@
 * {
 	font-family: Arial, Helvetica, sans-serif;
 }
-header 
-{   display: flex;
+header{   display: flex;
     justify-content: space-between;
-    align-content: baseline;}
+    align-content: baseline;
+}
 	
 body {
    max-width: 1024px;
    margin: 0 auto;
-   
+}
+.our-history {
+    display: flex;
+    align-items: start;
+}
+.our-history img {
+    width: 40%;
+    border: black;
+}
+.our-history-text {
+    margin-right: 25px;
+    text-align: justify;
+    text-indent: 40px;
 }
