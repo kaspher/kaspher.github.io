@@ -1,0 +1,19 @@
+header{
+    background-color: #006680;
+    font-family: 'Arimo', sans-serif;
+}
+
+a{
+    font-family: 'Anton', sans-serif;
+}
+
+h1{
+    color: white;
+}
+
+footer{
+    background-color: #006680;
+    color: white;
+    text-align: center;
+    font-family: 'Arimo', sans-serif;
+}
